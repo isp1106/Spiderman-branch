@@ -1,3 +1,5 @@
+TobeyMaquire
+
 # Spider-man 1
 - Year: 2002
 - Name: Peter Benjamin Parker
@@ -10,3 +12,12 @@
 - Year: 2007
 - Name: Peter Benjamin Parker
 
+AndrewGarfield
+
+#Amazing Spider-Man 1
+- Year: 2012
+- Name: Peter Benjamin Parker
+
+#Amazing Spider-Man 2
+- Year: 2014
+- Name: peter Benjamin Parker
